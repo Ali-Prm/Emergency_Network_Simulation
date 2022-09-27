@@ -35,13 +35,13 @@ The fundamental assumptions are as follows:
 - Type-1: (Secondary Fire incidents) Human lives are not at the stack, and they usually occur in open spaces. 
 - Type-2: (Primary Fire incidents that do not need a ladder) They occur in houses and workplaces with one to five floors. 
 - Type-2: (Primary Fire incidents that need a ladder) They occur in houses and workplaces with more than six floors. 
-![Alt text](docs/incident_assupmtion.png?raw=true "Incident assumption")
+![Alt text](docs/incident_assupmtions.png?raw=true "Incident assumption")
 
 2. Vehicle: Three types of vehicles are considered
 - Type-1: (Heading vehicle) The most basic and smallest vehicles that serve every incident.
 - Type-2: (Tanker vehicle) It carries water and is sent to primary incidents.
 - Type-3: (Ladder) It is needed for operation in highrise buildings. 
-![Alt text](docs/vehicle_assupmtion.png?raw=true "Incident assumption")
+![Alt text](docs/vehicle_assupmtions.png?raw=true "Incident assumption")
 
 
 # Files info 
