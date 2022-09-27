@@ -1,0 +1,3 @@
+config 1: current station
+config 2: nominal model (base model)
+config 3: minigap model
